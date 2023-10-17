@@ -1,0 +1,5 @@
+﻿  combat.cpp
+C:\Users\antoi\C++\sae\exercices\monster fight\combat.cpp(64,27): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  monster fight.cpp
+  Génération de code en cours...
+  monster fight.vcxproj -> C:\Users\antoi\C++\sae\exercices\monster fight\x64\Debug\monster fight.exe
